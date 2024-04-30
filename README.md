@@ -18,7 +18,7 @@ This is a test tool that just parses a sentence and replaces each word with the 
 
  The app can be ran by installing a dotnet global tool:
 
- `dotnet tool install --global GavinSteinhoff.StringParser`
+ `dotnet tool install --global GavinSteinhoff.StringParser --version 1.0.0-beta`
 
  Then accessed with:
 
