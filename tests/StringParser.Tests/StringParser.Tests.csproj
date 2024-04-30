@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\StringParser.App\StringParser.csproj" />
+    <ProjectReference Include="..\..\src\StringParser\StringParser.csproj" />
   </ItemGroup>
 
   <ItemGroup>

@@ -13,7 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{81643116
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringParser.Tests", "tests\StringParser.Tests\StringParser.Tests.csproj", "{4D19A179-C1BD-46DC-B60E-FF8A9CFF947B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringParser", "src\StringParser.App\StringParser.csproj", "{B13B8FC5-3ABC-420C-9308-757B73EDA0F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringParser", "src\StringParser\StringParser.csproj", "{1FF8A735-C18A-4DE8-B223-5DFA8530515A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,10 +25,10 @@ Global
 		{4D19A179-C1BD-46DC-B60E-FF8A9CFF947B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D19A179-C1BD-46DC-B60E-FF8A9CFF947B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D19A179-C1BD-46DC-B60E-FF8A9CFF947B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B13B8FC5-3ABC-420C-9308-757B73EDA0F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B13B8FC5-3ABC-420C-9308-757B73EDA0F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B13B8FC5-3ABC-420C-9308-757B73EDA0F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B13B8FC5-3ABC-420C-9308-757B73EDA0F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FF8A735-C18A-4DE8-B223-5DFA8530515A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FF8A735-C18A-4DE8-B223-5DFA8530515A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FF8A735-C18A-4DE8-B223-5DFA8530515A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FF8A735-C18A-4DE8-B223-5DFA8530515A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
