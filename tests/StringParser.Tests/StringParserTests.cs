@@ -1,4 +1,4 @@
-using StringParser.App;
+using StringParser;
 using Xunit.Abstractions;
 using Xunit.Microsoft.DependencyInjection.Abstracts;
 using Xunit.Sdk;

@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\CoxAuto.App\StringParser.App.csproj" />
+    <ProjectReference Include="..\..\src\StringParser.App\StringParser.csproj" />
   </ItemGroup>
 
   <ItemGroup>

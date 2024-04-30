@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using System.CommandLine.Binding;
 
-namespace StringParser.App;
+namespace StringParser;
 
 internal class GenericBinder<T> : BinderBase<T>
 {

@@ -6,13 +6,14 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DE810465-DDDF-4048-B892-6ECFE93DA42D}"
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
+		README.md = README.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{81643116-9DCB-4465-8137-BD9DEC199CAE}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringParser.Tests", "tests\StringParser.Tests\StringParser.Tests.csproj", "{4D19A179-C1BD-46DC-B60E-FF8A9CFF947B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringParser.App", "src\StringParser.App\StringParser.App.csproj", "{B13B8FC5-3ABC-420C-9308-757B73EDA0F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringParser", "src\StringParser.App\StringParser.csproj", "{B13B8FC5-3ABC-420C-9308-757B73EDA0F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

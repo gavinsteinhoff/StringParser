@@ -1,4 +1,4 @@
-﻿using StringParser.App;
+﻿using StringParser;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Options;

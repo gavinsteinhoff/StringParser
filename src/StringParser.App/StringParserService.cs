@@ -1,4 +1,4 @@
-﻿namespace StringParser.App;
+﻿namespace StringParser;
 
 public interface IStringParserService
 {
