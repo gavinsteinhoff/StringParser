@@ -6,7 +6,8 @@ name: Push to Nuget
 on:
   push:
     branches: [ "master" ]
-
+    paths:
+      - 'src/**'
 jobs:
   build:
 
